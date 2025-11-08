@@ -1,1 +1,1 @@
-{"color": [0, 109, 110], "head_color": [0, 69, 70], "difficulty": "Easy"}
+{"color": [0, 109, 110], "head_color": [0, 69, 70], "difficulty": "normal", "speed": "medium", "grid_size": [20, 20], "initial_length": 5, "food_spawn_rate": 1, "obstacles": true}
